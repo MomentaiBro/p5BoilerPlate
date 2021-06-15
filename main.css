@@ -16,6 +16,7 @@ body, html{
 header, footer{
     display: flex;
     height: 10vh;
+    justify-content: flex-end;
     align-items: center;
     width: 100%;
 }

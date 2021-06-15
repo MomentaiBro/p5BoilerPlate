@@ -1,8 +1,18 @@
+
 function setup() {
   createCanvas(700, 600);
+
 }
 
 function draw() {
-  background(220);
-  circle( 200, 500, 100)
+  background(0);
+  
+  // print("Hello World"). Delete this to beigin sketching! 
+  stroke(255)
+  strokeWeight(4)
+  noFill()
+  circle(350, 300, 500)
+
 }
+
+
